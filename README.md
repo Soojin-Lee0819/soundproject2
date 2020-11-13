@@ -2,7 +2,7 @@
 ## Hear Our Spirit
 
 Github repository: https://github.com/Soojin-Lee0819/soundproject2 
-Website:
+Website:https://soojin-lee0819.github.io/soundproject2/
 
 ### Project Description:
 
