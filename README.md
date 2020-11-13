@@ -1,7 +1,8 @@
 # Sound Project
 ## Hear Our Spirit
 
-Github repository: Website:
+Github repository: https://github.com/Soojin-Lee0819/soundproject2 
+Website:
 
 ### Project Description:
 
